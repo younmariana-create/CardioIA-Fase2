@@ -58,6 +58,8 @@ Os principais arquivos desenvolvidos nesta fase são:
 
 - **classificador_risco.py**: realiza o treinamento, avaliação e teste do classificador utilizando TF-IDF e Regressão Logística.
 
+- **classificador_risco.ipynb**: notebook utilizado para executar, documentar e apresentar o treinamento, avaliação e testes do classificador utilizando TF-IDF e Regressão Logística.
+
 - **README.md**: documentação do projeto e instruções para execução dos códigos.
 
 ## 🔧 Como executar o código
@@ -145,9 +147,11 @@ O dataset utilizado nesta fase possui:
 
 ### Execução do classificador
 
-Para executar o classificador:
+Para executar o classificador pelo arquivo Python:
 
     python classificador_risco.py
+
+Também é possível executar o classificador pelo notebook **`classificador_risco.ipynb`** no Visual Studio Code ou em outra IDE compatível com Jupyter.
 
 O programa realiza as seguintes etapas:
 

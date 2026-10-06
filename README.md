@@ -262,6 +262,14 @@ As classificações de risco apresentadas pelo modelo não constituem diagnósti
 
 ---
 
+## 🎥 Vídeo de apresentação
+
+Vídeo de apresentação da Fase 2 do projeto CardioIA:
+
+[Assista ao vídeo no YouTube](https://youtu.be/SRI1XxXxKEQ)
+
+---
+
 ## 🗃 Histórico de lançamentos
 
 - **0.2.0 - 03/10/2026**
